@@ -1,6 +1,4 @@
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipJP.txt@141.147.163.68
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipHK.txt@proxyip.amclubs.kozow.com
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipUS.txt@proxyip.amclubs.camdvr.org
-
-
+162.159.129.11
+2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c
+2606:4700:9b08:7ce1:8882:ba8c:2880:c619
+2606:4700:9b08:dd59:154f:abf8:46b5:25bb
