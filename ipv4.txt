@@ -3,7 +3,7 @@
 [2606:4700:9b08:dd59:154f:abf8:46b5:25bb]#IPV6
 time.is#time.is
 icook.com#icook.com
-icook.tw#icook.tw
+icook.hk#icook.tw
 ip.sb#ip.sb
 shopify.com#shopify.com
 www.digitalocean.com#www.digitalocean.com
