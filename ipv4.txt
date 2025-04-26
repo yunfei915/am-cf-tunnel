@@ -1,9 +1,10 @@
-[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]#IPV6
-[2606:4700:9b08:7ce1:8882:ba8c:2880:c619]#IPV6
-[2606:4700:9b08:dd59:154f:abf8:46b5:25bb]#IPV6
+[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]#IPV6-1
+[2606:4700:9b08:7ce1:8882:ba8c:2880:c619]#IPV6-2
+[2606:4700:9b08:dd59:154f:abf8:46b5:25bb]#IPV6-3
+visa.cn#visa.cn
 time.is#time.is
-icook.com#icook.com
-icook.hk#icook.tw
+icook.hk#icook.hk
+icook.tw#icook.tw
 ip.sb#ip.sb
 shopify.com#shopify.com
 www.digitalocean.com#www.digitalocean.com
