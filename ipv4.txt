@@ -1,5 +1,6 @@
 www.wto.org#www.wto.org
 shopify.com#shopify.com
+gur.gov.ua#gur.gov.ua
 [2606:4700:839a:8646:1f3d:e18e:dbb9:f237]#IPV6-HK
 [2606:4700:311f:d55f:b8b1:b51e:849:18b9]IPV6-US
 [2606:4700:85d9:cec3:f690:590c:88de:b78]#IPV6-EU
